@@ -32,7 +32,7 @@ export const MainLayout = ({ children, className }: MainLayoutProps) => {
       <footer className="flex items-center justify-center p-4">
         ©
         <Link href="https://www.linkedin.com/in/mateusz-hadry%C5%9B/" className="pr-2">
-          Mateusz Hadryś
+          Eugene Okogun
         </Link>
         Copyright {new Date().getFullYear()}
       </footer>
